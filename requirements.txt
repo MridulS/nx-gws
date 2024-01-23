@@ -3,3 +3,4 @@ osmnx
 pandas
 graphblas-algorithms
 scikit-learn
+scipy
