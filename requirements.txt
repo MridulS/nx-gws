@@ -4,3 +4,4 @@ pandas
 graphblas-algorithms
 scikit-learn
 scipy
+matplotlib
