@@ -1,3 +1,7 @@
+import warnings
+
+warnings.filterwarnings("ignore")
+
 import networkx as nx
 import pandas as pd
 import time
